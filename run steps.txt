@@ -1,0 +1,12 @@
+step:
+1.unzip project
+2.open project in vs code
+3.cd livingitupstains
+  or
+  set path=c:\downloads\livingitupstains> 
+4.python manage.py runserver
+5.on chrome open local host
+ http://127.0.0.1:8000 for project
+6. http://127.0.0.1:8000/admin 
+	open and add username:john
+		     password:john123 
